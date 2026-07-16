@@ -91,3 +91,11 @@ Do not publish real personal data, bank details, production `.env` files or secr
 ## License
 
 AidatPro is released under the MIT License. See [LICENSE](LICENSE).
+
+## Donate
+
+If you would like to support the project:
+
+```text
+USDT TRC20: 0x9368198ad43a66aa837759a062bfe8b472b984c3
+```

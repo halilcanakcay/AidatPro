@@ -91,3 +91,11 @@ Gerçek kişi verilerini, banka bilgilerini, üretim `.env` dosyalarını veya g
 ## Lisans
 
 AidatPro MIT lisansı ile yayımlanır. Ayrıntılar [LICENSE](LICENSE) dosyasındadır.
+
+## Bağış
+
+Projeye destek olmak isterseniz:
+
+```text
+USDT TRC20: 0x9368198ad43a66aa837759a062bfe8b472b984c3
+```
