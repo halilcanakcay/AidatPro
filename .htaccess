@@ -1,0 +1,13 @@
+<IfModule mod_rewrite.c>
+    Options -MultiViews -Indexes
+    DirectoryIndex index.php
+    RewriteEngine On
+
+    RewriteRule ^build/(.*)$ public/build/$1 [L]
+    RewriteRule ^favicon\.ico$ public/favicon.ico [L]
+    RewriteRule ^robots\.txt$ public/robots.txt [L]
+
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule ^ index.php [L]
+</IfModule>
