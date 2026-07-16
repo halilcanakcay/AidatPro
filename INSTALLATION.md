@@ -4,6 +4,13 @@ This guide explains how to run AidatPro in local development, shared hosting and
 
 Demo: [https://aidat.halilcan.dev](https://aidat.halilcan.dev)
 
+Demo login:
+
+```text
+E-mail: skulloger@gmail.com
+Password: asdasdasd
+```
+
 Türkçe kurulum rehberi: [KURULUM.md](KURULUM.md)
 
 ## Requirements
@@ -104,8 +111,8 @@ php artisan optimize
 Seeded installations include this administrator account:
 
 ```text
-E-mail: admin@aidat.local
-Password: Admin123!
+E-mail: skulloger@gmail.com
+Password: asdasdasd
 ```
 
 Change this password immediately after first login. Remove demo users, residents and financial records before production use.
@@ -176,7 +183,7 @@ Do not make source code, configuration or application files writable by the web 
 - `APP_DEBUG=false`
 - `APP_URL` points to the real HTTPS address
 - `.env` is not publicly accessible
-- The `admin@aidat.local` password has been changed
+- The `skulloger@gmail.com` demo account password has been changed
 - The production database password is strong and unique
 - Real personal data is not published to GitHub or public demo environments
 - Database and file backups are taken regularly

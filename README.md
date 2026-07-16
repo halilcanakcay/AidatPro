@@ -4,6 +4,13 @@ Free and open-source apartment, residential site and dues management panel built
 
 Demo: [https://aidat.halilcan.dev](https://aidat.halilcan.dev)
 
+Demo login:
+
+```text
+E-mail: skulloger@gmail.com
+Password: asdasdasd
+```
+
 Languages: [Türkçe](README.tr.md) | [English](README.en.md)
 
 ## What It Does
@@ -38,8 +45,8 @@ database/aidatpro.sqlite
 Example admin account:
 
 ```text
-E-mail: admin@aidat.local
-Password: Admin123!
+E-mail: skulloger@gmail.com
+Password: asdasdasd
 ```
 
 Change the administrator password immediately after first login and remove demo data before using the application in production.

@@ -4,6 +4,13 @@ AidatPro; apartmanlar, siteler ve toplu yaşam alanları için geliştirilen üc
 
 Demo: [https://aidat.halilcan.dev](https://aidat.halilcan.dev)
 
+Demo girişi:
+
+```text
+E-posta: skulloger@gmail.com
+Şifre: asdasdasd
+```
+
 Dil seçenekleri: [Türkçe](README.tr.md) | [English](README.en.md)
 
 ## Amaç
@@ -45,8 +52,8 @@ database/aidatpro.sqlite
 Örnek yönetici hesabı:
 
 ```text
-E-posta: admin@aidat.local
-Şifre: Admin123!
+E-posta: skulloger@gmail.com
+Şifre: asdasdasd
 ```
 
 İlk girişten sonra yönetici şifresini mutlaka değiştirin ve gerçek kullanıma geçmeden önce demo verilerini temizleyin.

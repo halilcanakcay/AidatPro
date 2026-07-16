@@ -4,6 +4,13 @@ Bu rehber AidatPro'yu yerel geliştirme ortamında, paylaşımlı hostingde veya
 
 Demo adresi: [https://aidat.halilcan.dev](https://aidat.halilcan.dev)
 
+Demo girişi:
+
+```text
+E-posta: skulloger@gmail.com
+Şifre: asdasdasd
+```
+
 English setup guide: [INSTALLATION.md](INSTALLATION.md)
 
 ## Gereksinimler
@@ -104,8 +111,8 @@ php artisan optimize
 Örnek verilerle kurulumda aşağıdaki yönetici hesabı oluşur:
 
 ```text
-E-posta: admin@aidat.local
-Şifre: Admin123!
+E-posta: skulloger@gmail.com
+Şifre: asdasdasd
 ```
 
 İlk girişten sonra bu şifreyi değiştirin. Üretim ortamında demo kullanıcılarını, örnek sakinleri ve örnek finansal kayıtları temizleyin.
@@ -176,7 +183,7 @@ Kaynak kod, yapılandırma ve uygulama dosyalarına web sunucusu tarafından yaz
 - `APP_DEBUG=false` olmalıdır.
 - `APP_URL` gerçek HTTPS adresini göstermelidir.
 - `.env` dosyası web üzerinden erişilebilir olmamalıdır.
-- `admin@aidat.local` şifresi değiştirilmelidir.
+- `skulloger@gmail.com` demo hesabının şifresi değiştirilmelidir.
 - Üretim veritabanı şifresi güçlü ve benzersiz olmalıdır.
 - Gerçek kişisel veriler GitHub'a veya herkese açık demo ortamlarına yüklenmemelidir.
 - Düzenli veritabanı ve dosya yedeği alınmalıdır.
